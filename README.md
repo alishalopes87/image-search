@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Image Search
-## <img src="https://media.giphy.com/media/1msxYlTJeUpVpxjTFH/giphy.gif">
-## <img src="https://media.giphy.com/media/T9JZ8Daar8BENL7ypZ/giphy.gif">
+## <img src="https://media.giphy.com/media/1msxYlTJeUpVpxjTFH/giphy.gif">## <img src="https://media.giphy.com/media/T9JZ8Daar8BENL7ypZ/giphy.gif">
 
 
 ## Overview:
