@@ -16,10 +16,8 @@ Clone repository:
 $ git clone https://github.com/alishalopes87/Image-search.git
 ```
 Get your own secret keys🔑 for [Unsplash](https://unsplash.com/documentation) 
-```
-```
 
 In the project directory, you can run:
-
-## `npm start`
-
+```
+$ npm start
+```
